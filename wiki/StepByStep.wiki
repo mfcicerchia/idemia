@@ -48,50 +48,48 @@ Step 1: Modeling Agent and its Goal, State and Strategy
   # Press, and hold down the left button. Drag the figure to enlarge it and then drop it
   # Enter "PacmanAgent" and press Enter
  # Agent Goal
-  # Click in Goal button in the toolbar.
+  # Click in Goal button in the toolbar
   # Click in Goal Compartment, enter “PacmanGoal” and press Enter.
   # Right Click in the goal, and select Show Properties View
   # In Properties Area that appear, enter “(knownWorld = True) & (emptyWorld = True)” in Value property  and press Enter
  # Agent State
   # Click in State button in the toolbar.
-  # Click in State Compartment, enter “PacmanState” and press Enter.
+  # Click in State Compartment, enter “PacmanState” and press Enter
   # Click in DataStructure button in the toolbar
   # Click in State Compartment, enter “world” and press Enter
   # Right Click in the goal, and select Show Properties View
-  # In Properties Area that appear, select “matrix” value in Type.
-  # Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure).
+  # In Properties Area that appear, select “matrix” value in Type
+  # Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure)
  # Agent Strategy
   # Select Search button in the toolbar
-  # Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
+  # Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch)
  * Agent Done!*
 
 Step 2: Modeling Environment and its State.
 
  # Environment Figure
   # Click in Environment button in the toolbar.
-  # Press, and hold down the left button. Drag the figure to enlarge it and then drop it.
-  # Enter “PacmanEnvironment” and press Enter.
+  # Press, and hold down the left button. Drag the figure to enlarge it and then drop it
+  # Enter “PacmanEnvironment” and press Enter
  # Environment State
-  # Click in State button in the toolbar.
-  # Click in State Compartment, enter “EnvironmentState” and press Enter.
-  # Click in DataStructure button in the toolbar.
-  # Click in State Compartment, enter “World”.
-  # Right Click in the goal, and select Show Properties View.
-  # In Properties Area that appear, select “matrix” value in Type.
-  # Repeat last four items to create the others DataStructure following the Pacman Example (names and types of DataStructure).
+  # Click in State button in the toolbar
+  # Click in State Compartment, enter “EnvironmentState” and press Enter
+  # Click in DataStructure button in the toolbar
+  # Click in State Compartment, enter “World”
+  # Right Click in the goal, and select Show Properties View
+  # In Properties Area that appear, select “matrix” value in Type
+  # Repeat last four items to create the others DataStructure following the Pacman Example (names and types of DataStructure)
  * Environment Done!*
 	
 Step 3: Modeling Relations
  # Actions
   # Click in Action button in the toolbar
   # Click in Agent Header and hold down, and then drop in Environment Header
-  # Enter “Flight” in action name, and press Enter.
-  # Pre and post condicion???? Los tengo que cargar?
-  # Repeat last four items to create the others Actions following the Pacman Example (actions names, pre and post conditions)
+  # Enter “Flight” in action name, and press Enter
+  # Repeat last threeitems to create the others Actions following the Pacman Example (actions names, pre and post conditions)
  # Perceptions
   # Click in Action button in the toolbar
   # Click in Environment Header and hold down, and then drop in Agent Header
-  # Enter “energy” in action name, and press Enter.
-  # Repeat last three items to create the others 
-Perceptions following the Pacman Example (perceptions names).
+  # Enter “energy” in action name, and press Enter
+  # Repeat last three items to create the others Perceptions following the Pacman Example (perceptions names)
  * Relations Done!*
