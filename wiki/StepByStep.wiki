@@ -63,42 +63,35 @@ Step 1: Modeling Agent and its Goal, State and Strategy
  # Agent Strategy
   # Select Search button in the toolbar
   # Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
- *Agent Done!*
+ * Agent Done!*
 
 Step 2: Modeling Environment and its State.
-1-	Environment Figure
-a.	Click in Environment button in the toolbar.
-b.	Press, and hold down the left button. Drag the figure to enlarge it and then drop it.
-c.	Enter “PacmanEnvironment” and press Enter.
 
- 
-2-	Environment State
-a.	Click in State button in the toolbar.
-b.	Click in State Compartment, enter “EnvironmentState” and press Enter.
- 
-c.	Click in DataStructure button in the toolbar.
-d.	Click in State Compartment, enter “World”.
- 
-e.	Right Click in the goal, and select Show Properties View.
-f.	In Properties Area that appear, select “matrix” value in Type.
-g.	Repeat last four items to create the others DataStructure following the Pacman Example (names and types of DataStructure).
- 
-3-	Environment Done!
+ # Environment Figure
+  # Click in Environment button in the toolbar.
+  # Press, and hold down the left button. Drag the figure to enlarge it and then drop it.
+  # Enter “PacmanEnvironment” and press Enter.
+ # Environment State
+  # Click in State button in the toolbar.
+  # Click in State Compartment, enter “EnvironmentState” and press Enter.
+  # Click in DataStructure button in the toolbar.
+  # Click in State Compartment, enter “World”.
+  # Right Click in the goal, and select Show Properties View.
+  # In Properties Area that appear, select “matrix” value in Type.
+  # Repeat last four items to create the others DataStructure following the Pacman Example (names and types of DataStructure).
+ * Environment Done!*
 	
 Step 3: Modeling Relations
-1-	Actions
-a.	Click in Action button in the toolbar
-b.	Click in Agent Header and hold down, and then drop in Environment Header.
-c.	Enter “Flight” in action name, and press Enter.
- 
-d.	Pre and post condicion???? Los tengo que cargar?
-e.	Repeat last four items to create the others Actions following the Pacman Example (actions names, pre and post conditions).
-2-	Perceptions
-a.	Click in Action button in the toolbar
-b.	Click in Environment Header and hold down, and then drop in Agent Header.
-c.	Enter “energy” in action name, and press Enter.
- 
-d.	Repeat last three items to create the others 
+ # Actions
+  # Click in Action button in the toolbar
+  # Click in Agent Header and hold down, and then drop in Environment Header
+  # Enter “Flight” in action name, and press Enter.
+  # Pre and post condicion???? Los tengo que cargar?
+  # Repeat last four items to create the others Actions following the Pacman Example (actions names, pre and post conditions)
+ # Perceptions
+  # Click in Action button in the toolbar
+  # Click in Environment Header and hold down, and then drop in Agent Header
+  # Enter “energy” in action name, and press Enter.
+  # Repeat last three items to create the others 
 Perceptions following the Pacman Example (perceptions names).
-
-3-	Relations Done!
+ * Relations Done!*
