@@ -11,6 +11,8 @@ Figure 1: Pacman Solution Snapshot
 == Stage 1: Generating a Solution ==
 
 This stage defines the project structure and generates the empty model to design the solution.
+# hola
+# ola
 
 # Select File > New > Java Project.
 # In New Java Project dialog that appear, enter “Pacman” for the Project Name.
