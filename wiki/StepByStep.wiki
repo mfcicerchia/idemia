@@ -6,7 +6,8 @@ The process of designing an Idemia‘s solution  is a complex process involving 
 
 To describe the complete process, it will use an academic example called “Pacman”.
 
-Figure 1: Pacman Solution Snapshot
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/1.PacmanSolutionSnapshot.png
+
 
 
 == Stage 1: Generating a Solution ==
@@ -15,25 +16,37 @@ This stage defines the project structure and generates the empty model to design
 
 
  # Select File > New > Java Project
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/2.NewJavaProyectMenu.png
  # In New Java Project dialog that appear, enter “Pacman” for the Project Name
+
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/3.NewJavaProyect.png
+
  # Click Finish
  # Once project is created, select it.
- # Select File > New > Folder.
- # In New Folder dialog, enter o select “Pacman” for the parent folder.
+ # Select File > New > Folder
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/4.NewFolderMenu.png
+ # In New Folder dialog, enter o select “Pacman” for the parent folder
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/5.NewFolder.png
  # Enter “model” for folder name, then click Finish
 
 The project structure is generated, now you have to generate the blank model.
 
- # Select File > New > Other.
- # In New dialog, you will see a list of tools to create. Select “Idemia Diagram” from “Examples” folder, and click Next.
- # In New Idemia Diagram dialog (Create Idemia Diagram), enter or select “model” folder .
- # Enter “pacman.idemia_diagram” for file name, and click Next.
- # In New Idemia Diagram dialog (Create Idemia Model), enter or  select “model” folder.
+ # Select File > New > Other
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/6.NewIdemiaDiagramMenu.png
+ # In New dialog, you will see a list of tools to create. Select “Idemia Diagram” from “Examples” folder, and click Next
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/7.NewIdemiaDiagram.png
+ # In New Idemia Diagram dialog (Create Idemia Diagram), enter or select “model” folder
+  
+ # Enter “pacman.idemia_diagram” for file name, and click Next
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/8.NewIdemiaDiagram(modelo).
+ # In New Idemia Diagram dialog (Create Idemia Model), enter or  select “model” folder
+ http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/9.NewIdemiaDiagram(diagrama).png
  # Enter “pacman.idemia” for file name, and then click Finish.
 
 *Done! You are ready to model your Idemia solution!*
 
-Figure 2: Blank Idemia’s Solution snapshot
+  http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/10.BlankIdemiaSolutionSnapshot).png
+
 
 = Stage 2: Modeling Solution =
 
