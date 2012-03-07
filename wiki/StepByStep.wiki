@@ -55,15 +55,14 @@ Step 1: Modeling Agent and its Goal, State and Strategy
  # Agent State
   # Click in State button in the toolbar.
   # Click in State Compartment, enter “PacmanState” and press Enter.
-   c.	 
-   d.	Click in DataStructure button in the toolbar
-   e.	Click in State Compartment, enter “world” and press Enter
-   f.	Right Click in the goal, and select Show Properties View
-   g.	In Properties Area that appear, select “matrix” value in Type.
-   h.	Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure).
+  # Click in DataStructure button in the toolbar
+  # Click in State Compartment, enter “world” and press Enter
+  # Right Click in the goal, and select Show Properties View
+  # In Properties Area that appear, select “matrix” value in Type.
+  # Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure).
  # Agent Strategy
-   a.	Select Search button in the toolbar
-   b.	Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
+  # Select Search button in the toolbar
+  # Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
  *Agent Done!*
 
 Step 2: Modeling Environment and its State.
