@@ -32,45 +32,39 @@ The project structure is generated, now you have to generate the blank model.
  # Enter “pacman.idemia” for file name, and then click Finish.
 
 *Done! You are ready to model your Idemia solution!*
-Figure x: Blank Idemia’s Solution snapshot
+
+Figure 2: Blank Idemia’s Solution snapshot
 
 = Stage 2: Modeling Solution =
 
 As you know, IDEMIA support a complete solution integrated with only one Agent and one Environment.  It doesn’t restrict the number of relations (Actions and Perception) between them. 
 
-Note: To create the relation is necessary that Agent and Environment exists.
+*Note:* To create the relation is necessary that Agent and Environment exists.
 
 
 Step 1: Modeling Agent and its Goal, State and Strategy
-1-	Agent
-a.	Click in Agent button in the toolbar.
-b.	Press, and hold down the left button. Drag the figure to enlarge it and then drop it.
-c.	Enter “PacmanAgent” and press Enter.
- 
-2-	Agent Goal:
-a.	Click in Goal button in the toolbar.
-b.	Click in Goal Compartment, enter “PacmanGoal” and press Enter.
- 
-c.	Right Click in the goal, and select Show Properties View
-d.	In Properties Area that appear, enter “(knownWorld = True) & (emptyWorld = True)” in Value property  and press Enter
- 
-3-	Agent State
-a.	Click in State button in the toolbar.
-b.	Click in State Compartment, enter “PacmanState” and press Enter.
-c.	 
-d.	Click in DataStructure button in the toolbar
-e.	Click in State Compartment, enter “world” and press Enter
- 
-f.	Right Click in the goal, and select Show Properties View
-g.	In Properties Area that appear, select “matrix” value in Type.
-h.	Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure).
- 
-
-4-	Agent Strategy
-a.	Select Search button in the toolbar
-b.	Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
- 
-5-	Agent Done!
+ # Agent
+   a. Click in Agent button in the toolbar
+   b.Press, and hold down the left button. Drag the figure to enlarge it and then drop it
+   c.Enter “PacmanAgent” and press Enter
+ # Agent Goal
+   a.Click in Goal button in the toolbar.
+   b.	Click in Goal Compartment, enter “PacmanGoal” and press Enter.
+   c.	Right Click in the goal, and select Show Properties View
+   d.	In Properties Area that appear, enter “(knownWorld = True) & (emptyWorld = True)” in Value property  and press Enter
+ # Agent State
+   a.	Click in State button in the toolbar.
+   b.	Click in State Compartment, enter “PacmanState” and press Enter.
+   c.	 
+   d.	Click in DataStructure button in the toolbar
+   e.	Click in State Compartment, enter “world” and press Enter
+   f.	Right Click in the goal, and select Show Properties View
+   g.	In Properties Area that appear, select “matrix” value in Type.
+   h.	Repeat last four items to create others DataStructure following the Pacman Example (names and types of DataStructure).
+ # Agent Strategy
+   a.	Select Search button in the toolbar
+   b.	Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch).
+ *Agent Done!*
 
 Step 2: Modeling Environment and its State.
 1-	Environment Figure
