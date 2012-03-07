@@ -12,9 +12,10 @@ Figure 1: Pacman Solution Snapshot
 
 This stage defines the project structure and generates the empty model to design the solution.
 
-1- Select File > New > Java Project.
-2- In New Java Project dialog that appear, enter “Pacman” for the Project Name.
-3-Click Finish.
+# Select File > New > Java Project.
+# In New Java Project dialog that appear, enter “Pacman” for the Project Name.
+
+# Click Finish.
 4-Once project is created, select it.
 5-Select File > New > Folder.
 6-In New Folder dialog, enter o select “Pacman” for the parent folder.
