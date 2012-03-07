@@ -44,17 +44,17 @@ As you know, IDEMIA support a complete solution integrated with only one Agent a
 
 Step 1: Modeling Agent and its Goal, State and Strategy
  # Agent
-   a. Click in Agent button in the toolbar
-   b.Press, and hold down the left button. Drag the figure to enlarge it and then drop it
-   c.Enter “PacmanAgent” and press Enter
+  # Click in Agent button in the toolbar
+  # Press, and hold down the left button. Drag the figure to enlarge it and then drop it
+  # Enter "PacmanAgent" and press Enter
  # Agent Goal
-   a.Click in Goal button in the toolbar.
-   b.	Click in Goal Compartment, enter “PacmanGoal” and press Enter.
-   c.	Right Click in the goal, and select Show Properties View
-   d.	In Properties Area that appear, enter “(knownWorld = True) & (emptyWorld = True)” in Value property  and press Enter
+  # Click in Goal button in the toolbar.
+  # Click in Goal Compartment, enter “PacmanGoal” and press Enter.
+  # Right Click in the goal, and select Show Properties View
+  # In Properties Area that appear, enter “(knownWorld = True) & (emptyWorld = True)” in Value property  and press Enter
  # Agent State
-   a.	Click in State button in the toolbar.
-   b.	Click in State Compartment, enter “PacmanState” and press Enter.
+  # Click in State button in the toolbar.
+  # Click in State Compartment, enter “PacmanState” and press Enter.
    c.	 
    d.	Click in DataStructure button in the toolbar
    e.	Click in State Compartment, enter “world” and press Enter
