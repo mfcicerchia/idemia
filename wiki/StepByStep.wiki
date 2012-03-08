@@ -82,7 +82,8 @@ _Step 1: Modeling Agent and its Goal, State and Strategy_
   # Select Search button in the toolbar
   # Click in StrategyCompartment, and press Enter (default search strategy is DeptFirstSearch)
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/17.PacmanStrategy.png
- *Agent Done!*
+*Agent Done!*
+
 
 _Step 2: Modeling Environment and its State_
 
@@ -102,8 +103,9 @@ _Step 2: Modeling Environment and its State_
   # In Properties Area that appear, select “matrix” value in Type
   # Repeat last four items to create the others DataStructure following the Pacman Example (names and types of DataStructure)
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/21.CompleteDataStructurePacmanEnvironmentState.png
- *Environment Done!*
-	
+*Environment Done!*
+
+
 _Step 3: Modeling Relations_
  # Actions
   # Click in Action button in the toolbar
@@ -111,10 +113,11 @@ _Step 3: Modeling Relations_
   # Enter “Flight” in action name, and press Enter
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/22.Action.png
   # Repeat last threeitems to create the others Actions following the Pacman Example (actions names, pre and post conditions)
+
  # Perceptions
   # Click in Action button in the toolbar
   # Click in Environment Header and hold down, and then drop in Agent Header
   # Enter “energy” in action name, and press Enter
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/23.Perception.png
   # Repeat last three items to create the others Perceptions following the Pacman Example (perceptions names)
- *Relations Done!*
+*Relations Done!*
