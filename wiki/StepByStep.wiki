@@ -112,12 +112,15 @@ _Step 3: Modeling Relations_
   # Click in Agent Header and hold down, and then drop in Environment Header
   # Enter “Flight” in action name, and press Enter
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/22.Action.png
-  # Repeat last threeitems to create the others Actions following the Pacman Example (actions names, pre and post conditions)
+
+    Repeat last threeitems to create the others Actions following the Pacman Example (actions names, pre and post conditions)
 
  # Perceptions
   # Click in Action button in the toolbar
   # Click in Environment Header and hold down, and then drop in Agent Header
   # Enter “energy” in action name, and press Enter
   http://idemia.googlecode.com/svn/wiki/images/How_to_use_IDEM-IA_Step_by_Step/23.Perception.png
-  # Repeat last three items to create the others Perceptions following the Pacman Example (perceptions names)
+
+  Repeat last three items to create the others Perceptions following the Pacman Example (perceptions names)
+
 *Relations Done!*
