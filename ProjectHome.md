@@ -1,0 +1,9 @@
+Este proyecto tiene como objetivo el desarrollo de un prototipo de un Ambiente de Desarrollo Integrado (IDE) que permita el modelado y especificación de agentes inteligentes. Se pretende que la arquitectura permita el diseño conceptual del agente desde una perspectiva de alto nivel utilizando como vocabulario de diseño los conceptos de agentes tales como percepciones, acciones, estado, estrategias de decisión, metas, ambiente, etc. y que permita a partir del modelo conceptual del agente obtener la solución parcial o total del problema en el lenguaje de programación Java.
+
+The aim of this project is the development of an Integrated Development Environment (IDE) to support the modeling and specification of intelligent agents. The main purpose is to allow the conceptual design of an agent from a high level perspective, using agent concepts such as perceptions, actions, state, decision strategies, goals, environment, and so on, and generate the partial or complete solution of the problem in a programming language, such as Java.
+
+**Publications:**
+
+Gutiérrez, M., Roa, J., Santana, W., Stegmayer, G. Towards Teaching Artificial Intelligence Using a Model-Driven Approach. Journal of Advanced Studies in Artificial Intelligence, vol. 1, no.1, 2014. [PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqb3JnZW1hcmNlbG9yb2F8Z3g6NDI3NTVhN2IxMjI2NGJm)
+
+Gutiérrez, M., Santana, W., Roa, J., Stegmayer, G. IDEM-IA: un entorno de desarrollo integrado para el modelado de agentes inteligentes. Revista Iberoamericana de Informática Educativa. Ed. ADIE, vol. 7, no. 13, 2011. [PDF](http://161.67.140.29/iecom/index.php/IECom/article/view/193/188)
